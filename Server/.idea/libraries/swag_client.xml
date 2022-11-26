@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="swag-client">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/slf4j-simple-1.7.25.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/Consumer/slf4j-api-1.7.25.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/Consumer/amqp-client-5.7.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/Downloads/java-client-generated/src/main/java" />
+      <root url="file://$USER_HOME$/Downloads/java-client-generated/src/test/java" />
+    </SOURCES>
+  </library>
+</component>
